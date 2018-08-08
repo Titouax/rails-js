@@ -14,3 +14,6 @@
 //= require activestorage
 //= require turbolinks
 //= require_tree .
+
+function popupdusale () {console.log(alert('Hey le site xxxvidsxxx est trop bien. Viens dessus stp please'))}
+  setTimeout (popupdusale, 10000)
